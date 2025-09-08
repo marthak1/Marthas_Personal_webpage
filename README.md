@@ -1,2 +1,2 @@
 # Marthas_Personal_webpage
-A mini-guide on space exploration with facts, missions, and timelines
+A crisp, visual overview of the missions, milestones, and movies shaping our journey into space.
