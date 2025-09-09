@@ -22,15 +22,15 @@ h1 {
 }
 
 h2 {
-  font-size: 1.875rem;
+  font-size: 1.5em;
   color: #ff4d9d;
 }
 
 p {
-  font-size: 1rem;
+  font-size: 0.8em;
 }
 .logo {
-  font-size: 1rem;
+  font-size: 1em;
   text-transform: uppercase;
   font-weight: bold;
 }
@@ -59,7 +59,7 @@ p {
   color: white;
   text-decoration: none;
   transition: color 0.3s;
-  font-size: 0.8rem;
+  font-size: 0.8em;
 }
 .menu-items li a:hover {
   color: lightblue;
@@ -132,6 +132,17 @@ figcaption {
 ul {
   list-style-type: square;
   
+}
+.space-guide ul{
+  font-size: 0.8rem;
+  margin: 5px;
+}
+.space-guide ol{
+  font-size: 0.8rem;
+  margin: 5px;
+}
+.space-guide li{
+  padding: 5px;
 }
 
 .big-picture {
