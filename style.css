@@ -27,7 +27,7 @@ h2 {
 }
 
 p {
-  font-size: 1vw;
+  font-size: 0.8em;
 }
 .logo {
   font-size: 1em;
@@ -119,6 +119,7 @@ p {
 }
 figcaption {
   padding-bottom: 60px;
+  font-size: 0.8em;
 }
 .space-guide {
   padding-top: 40px;
@@ -130,6 +131,10 @@ figcaption {
 
 ul {
   list-style-type: square;
+  font-size: 0.8em;
+}
+ol{
+font-size: 0.8em;
 }
 .big-picture {
   padding-top: 60px;
